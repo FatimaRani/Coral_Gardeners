@@ -2,7 +2,6 @@
 ![alt text](https://drive.google.com/uc?export=view&id=1LQbdlFOsZonQBIZSs5NzPEXsfKdM9kOk)  
 # United Nations World Innovation Day Hack 2022  
 
-<img align="left" width="400" height="400" src=https:"//drive.google.com/uc?export=view&id=1eTXPdc-J3QS6rfEY0cxUFFU_ugJ382o3">
 ![image](https://drive.google.com/uc?export=view&id=1eTXPdc-J3QS6rfEY0cxUFFU_ugJ382o3) 
   
 # Coral Gardeners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -46,7 +45,7 @@ Coral reefs can be restored through the following ways:
 
 <img align="left" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/8_SDG_MakeEveryDayCount_Gifs_GDU.gif">
 <img align="centre" width="200" height="200" src="https://itpo-germany.org/wp-content/uploads/2021/06/9_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img align="right" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/13_SDG_MakeEveryDayCount_Gifs_GDU.gif">
+<img align="right" width="200" height="200" src="https://drive.google.com/file/d/1yWsPJCIS7d0btHrVEOWEfIQht9fJA8KP/view?usp=sharing">
 <img align="left" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/14_SDG_MakeEveryDayCount_Gifs_GDU.gif">
 <img align="right" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/17_SDG_MakeEveryDayCount_Gifs_GDU.gif">
 
