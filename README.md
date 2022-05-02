@@ -8,11 +8,12 @@
 
 _CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs._
 
-## Intro
+## Introduction
 A coral reef is an underwater ecosystem characterised by reef-building corals. Reefs are formed of colonies of coral polyps held together by calcium carbonate.  Most coral reefs are built from stony corals, whose polyps cluster in groups. They are sometimes called the rainforests of the sea, they occupy less than 0.1% of the world’s ocean area, yet they provide a home for at least 25% of all marine species including fish, worms, crustaceans, etc.
 Corals are found all over the world's oceans, from the Aleutian Islands off the coast of Alaska to the warm tropical waters of the Caribbean Sea. Corals are found all over the world's oceans, from the Aleutian Islands off the coast of Alaska to the warm tropical waters of the Caribbean Sea. They are estimated to cover 284,300 km2 (109,800 sq mi), just under 0.1% of the oceans' surface area. 
 
 *You can find a list of where these reefs can be found: [`List of reefs`](https://en.wikipedia.org/wiki/List_of_reefs)*    
+![image](https://drive.google.com/uc?export=view&id=16aQBNYRzhe1Xg5w7qpn5xjUBqxN0im1X)
 
 ## Problem Statment
 
