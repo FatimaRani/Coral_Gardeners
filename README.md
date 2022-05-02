@@ -51,6 +51,11 @@ Join a micro-fragmentation diving event
 Support locals to do micro-fragmentation (like “Adopt a Coral”) 
 Data comparisons to measure our impact (A/B Testing for scientific usage)
 
+**Ömer Kılıç diving**
+<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1Qrim18Uy-659NpcXYFdyT7Um7tV6Yuzq
+">
+
+
 ### Virtual World (metaverse or others..) tour
 Re-direct to a metaverse tour with a group of people together
 Provide an NFT artefacts marketplace where the revenue generated will be used on the above activities
