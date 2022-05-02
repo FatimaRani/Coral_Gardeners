@@ -15,4 +15,4 @@
 CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs. 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
