@@ -53,7 +53,8 @@ Data comparisons to measure our impact (A/B Testing for scientific usage)
 
 **Ömer Kılıç diving**
 
-![image](src="https://drive.google.com/uc?export=view&id=1Qrim18Uy-659NpcXYFdyT7Um7tV6Yuzq")
+![image](https://drive.google.com/uc?export=view&id=1Qrim18Uy-659NpcXYFdyT7Um7tV6Yuzq)
+![image](https://drive.google.com/uc?export=view&id=1i2vaPEIY0fKSr_gNfqSZa_hLNDyYYdRM)
 
 
 ### Virtual World (metaverse or others..) tour
@@ -66,10 +67,18 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 ### PARTNERSHIPS
 - Sponsor our events
 - Transparent social responsibility 
--
+
 ***Mother Coral’s 💟 needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities.***
 
 [85 Miles of Atlantic Coral Reef Stayed Hidden Until Now](https://www.livescience.com/63442-new-coral-reef-found.html)
+
+
+## Technology Used
+- [Oracle APEX](https://apex.oracle.com/en/)
+- [NTF](https://solsea.io/)
+- [Figma -UI Design](https://www.figma.com/)
+- [Microsoft Sawy](https://sway.office.com/)
+- [Adobe Photoshop - Canvas](https://www.adobe.com/)
 
 ## Research Document
 [Look at our Reseach Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
