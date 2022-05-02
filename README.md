@@ -52,6 +52,7 @@ Support locals to do micro-fragmentation (like “Adopt a Coral”)
 Data comparisons to measure our impact (A/B Testing for scientific usage)
 
 **Ömer Kılıç diving**
+
 ![image](src="https://drive.google.com/uc?export=view&id=1Qrim18Uy-659NpcXYFdyT7Um7tV6Yuzq")
 
 
