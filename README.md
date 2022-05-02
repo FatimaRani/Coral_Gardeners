@@ -11,8 +11,9 @@
 
 [logo]:https://drive.google.com/file/d/1LQbdlFOsZonQBIZSs5NzPEXsfKdM9kOk/view?usp=sharing.PNG
 
-![image](https://drive.google.com/file/d/1LQbdlFOsZonQBIZSs5NzPEXsfKdM9kOk/view?usp=sharing.png)
-https://drive.google.com/file/d/1RLfgr8q0fbFa03OfpZXQ-2oKMhw5nJJ0/view?usp=sharing
+![image](https://drive.google.com/uc?export=view&id=1LQbdlFOsZonQBIZSs5NzPEXsfKdM9kOk.png)
+
+  
 # Coral Gardeners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs. 
 
