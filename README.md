@@ -23,9 +23,9 @@ Coral Reefs have been dying out at a rapid pace over the years. This is due to a
 
 ## How We Can Make A Difference
 - Raising awareness & providing a platform “Coral Gardeners” for global partnerships (sponsorships with different companies):
- - “Coral Gardeners” platform where people gather information about Coral Reefs and how to preserve them.
- - World Map that provides clear indicators & upcoming events.
- - The community will be informed about the activities that our partners sponsored.  
+  - **_“Coral Gardeners”_**  platform where people gather information about Coral Reefs and how to preserve them.
+  - World Map that provides clear indicators & upcoming events.
+  - The community will be informed about the activities that our partners sponsored.  
 - To promote and train people of all ages using augmented reality with the help of AI so they can apply real-time techniques effectively. Our platform will be a hub for people, companies and public bodies that sync their efforts related with Coral Reef preservation. Funds, grants, events and other related activities’ data are standardised and stored on our platform. People could find the most updated data on our servers. 
 
 
