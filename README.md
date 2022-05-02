@@ -45,7 +45,7 @@ Coral reefs can be restored through the following ways:
 
 <img align="left" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/8_SDG_MakeEveryDayCount_Gifs_GDU.gif">
 <img align="centre" width="200" height="200" src="https://itpo-germany.org/wp-content/uploads/2021/06/9_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img align="right" width="200" height="200" src="https://drive.google.com/drive/folders/1LQ9mYC1SaqFvUuotjeGEH0Zbd3Dd8GDP?lfhs=2">
+<img align="right" width="200" height="200" src="https://drive.google.com/file/d/1yWsPJCIS7d0btHrVEOWEfIQht9fJA8KP/view?usp=sharing">
 <img align="left" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/14_SDG_MakeEveryDayCount_Gifs_GDU.gif">
 <img align="right" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/17_SDG_MakeEveryDayCount_Gifs_GDU.gif">
 
