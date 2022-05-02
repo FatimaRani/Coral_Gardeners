@@ -40,6 +40,29 @@ Coral reefs can be restored through the following ways:
  -fusion.
 
 ### Our Platform: Coral Gardeners
+Our platform will provide a list of restoration activities globally. We will be an intermediary between experts who undertake these activities, volunteers, sponsor companies and enthusiasts.   
+- CTA Button 1: Join Upcoming Diving Event 
+- CTA Button 2: Dive to meta Coral Reef virtually
+- CTA Button 3: Buy a Coral NFT
+
+## Active Involvement and make real impact:
+# Snorkelling or Scuba-diving 
+Join a micro-fragmentation diving event 
+Support locals to do micro-fragmentation (like “Adopt a Coral”) 
+Data comparisons to measure our impact (A/B Testing for scientific usage)
+
+# Virtual World (metaverse or others..) tour
+Re-direct to a metaverse tour with a group of people together
+Provide an NFT artefacts marketplace where the revenue generated will be used on the above activities
+
+## Marketplace for NFT creators
+CORAL GARDENERS will provide a marketplace for NFT creators who have underwater related arts. We are open to partnership with other NFT buying/selling marketplaces to increase our impact.
+
+# PARTNERSHIPS
+- Sponsor our events
+- Transparent social responsibility 
+***_Mother Coral’s needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities._***
+
 
 ## Our Amazing Team
 
