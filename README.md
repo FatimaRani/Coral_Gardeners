@@ -1,7 +1,7 @@
 <a href="https://github.com//FatimaRani/Coral_Gard"><img src="https://drive.google.com/file/d/1PX3DeiZzB77VGmokG7q3uhJcptmdeuvd/view?usp=sharing" align="left" width="480" height="358" frameBorder="0"/></a>
 
 
-<a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="https://drive.google.com/uc?export=view&id=<1PX3DeiZzB77VGmokG7q3uhJcptmdeuvd>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1PX3DeiZzB77VGmokG7q3uhJcptmdeuvd"><img src="https://drive.google.com/uc?export=view&id=1PX3DeiZzB77VGmokG7q3uhJcptmdeuvd" style="width: 650px; max-width: 100%; height: auto"/>
   
 ![image](https://user-images.githubusercontent.com/55931343/166219931-e16fb5d0-1011-45a0-aa39-57bcd6c3cf6c.png)
 
