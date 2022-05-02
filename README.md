@@ -54,12 +54,16 @@ Data comparisons to measure our impact (A/B Testing for scientific usage)
 **Ömer Kılıç diving**
 
 ![image](https://drive.google.com/uc?export=view&id=1Qrim18Uy-659NpcXYFdyT7Um7tV6Yuzq)
-![image](https://drive.google.com/uc?export=view&id=1i2vaPEIY0fKSr_gNfqSZa_hLNDyYYdRM)
 
 
 ### Virtual World (metaverse or others..) tour
 Re-direct to a metaverse tour with a group of people together
 Provide an NFT artefacts marketplace where the revenue generated will be used on the above activities
+
+### Micro-fragmentation
+Micro-fragmentation technique is pretty new &  labor-intensive. CORAL GARDENERS play a vital role to enable collaboration among experts, volunteers, sponsors and all the rest of our small world village..
+
+![image](https://drive.google.com/uc?export=view&id=1i2vaPEIY0fKSr_gNfqSZa_hLNDyYYdRM)
 
 ## Marketplace for NFT creators
 CORAL GARDENERS will provide a marketplace for NFT creators who have underwater related arts. We are open to partnership with other NFT buying/selling marketplaces to increase our impact.
