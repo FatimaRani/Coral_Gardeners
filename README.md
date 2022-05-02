@@ -62,7 +62,18 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 - Sponsor our events
 - Transparent social responsibility 
 -
-***_Mother Coral’s needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities._***
+***Mother Coral’s 💟 needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities.***
+
+[85 Miles of Atlantic Coral Reef Stayed Hidden Until Now](https://www.livescience.com/63442-new-coral-reef-found.html)
+
+## Research Document
+[Look at our Reseach Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
+
+## Presentation Slides
+[Our presentation slides, please !](https://docs.google.com/presentation/d/1enL62UDvzbNuPkFUlX1hiT0SCmMeUw5ksvug5ez0YnQ/edit#slide=id.g126be710dcb_7_11)
+
+## Final Video
+[*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*](https://www.youtube.com/c/MegMrinaliniSundaram)
 
 
 ## Our Amazing Team
