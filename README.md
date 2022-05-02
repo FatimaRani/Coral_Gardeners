@@ -44,10 +44,10 @@ Coral reefs can be restored through the following ways:
 ## United Nations Targeted SDG’s (Sustainable Development Goals) 
 
 <img align="left" width="200" height="200" src="https://geca.eco/wp-content/uploads/2021/09/8_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img  align="left" width="200" height="200" src="https://itpo-germany.org/wp-content/uploads/2021/06/9_SDG_MakeEveryDayCount_Gifs_GDU.gif">
-<img  align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1yWsPJCIS7d0btHrVEOWEfIQht9fJA8KP">
-<img  align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1bgsCpGHovZ_nX-1vCvIv-XTfOuH5Qp_Q">
-<img  align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=11iRNTzfTUhCLroc1jm5vBYCSYxvGcJ60">
+<img align="left" width="200" height="200" src="https://itpo-germany.org/wp-content/uploads/2021/06/9_SDG_MakeEveryDayCount_Gifs_GDU.gif">
+<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1yWsPJCIS7d0btHrVEOWEfIQht9fJA8KP">
+<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1bgsCpGHovZ_nX-1vCvIv-XTfOuH5Qp_Q">
+<img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=11iRNTzfTUhCLroc1jm5vBYCSYxvGcJ60">
 
 
 
