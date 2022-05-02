@@ -41,7 +41,9 @@ Coral reefs can be restored through the following ways:
 
 ### Our Platform: Coral Gardeners
 
+## United Nations Targeted SDG’s (Sustainable Development Goals) 
 
+![image](https://geca.eco/wp-content/uploads/2021/09/8_SDG_MakeEveryDayCount_Gifs_GDU.gif)
 >
 #:
 
