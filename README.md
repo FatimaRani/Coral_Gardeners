@@ -5,7 +5,7 @@
   
 # Coral Gardeners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-_CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs._
+_🐚 CORAL GARDENERS platform provides data, real &amp; virtual world activities for everyone who wants to be part of preserving Coral Reefs. 🦑🐠🐋🐡🦞🦀_
 
 ## Introduction
 A coral reef is an underwater ecosystem characterised by reef-building corals. Reefs are formed of colonies of coral polyps held together by calcium carbonate.  Most coral reefs are built from stony corals, whose polyps cluster in groups. They are sometimes called the rainforests of the sea, they occupy less than 0.1% of the world’s ocean area, yet they provide a home for at least 25% of all marine species including fish, worms, crustaceans, etc.
