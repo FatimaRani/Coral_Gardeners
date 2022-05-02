@@ -21,12 +21,25 @@ Corals are found all over the world's oceans, from the Aleutian Islands off the 
 Coral Reefs have been dying out at a rapid pace over the years. This is due to a wide set of reasons like inadequate awareness among the community, lack of knowledgeable resources for all ages, ineffective climate measures etc. Human activity and a warming planet are rapidly degrading these precious and fragile ecosystems.
 
 
-## How We Can Make A Difference
+## Our Solution 
+
 - Raising awareness & providing a platform “Coral Gardeners” for global partnerships (sponsorships with different companies):
   - **_“Coral Gardeners”_**  platform where people gather information about Coral Reefs and how to preserve them.
   - World Map that provides clear indicators & upcoming events.
   - The community will be informed about the activities that our partners sponsored.  
 - To promote and train people of all ages using augmented reality with the help of AI so they can apply real-time techniques effectively. Our platform will be a hub for people, companies and public bodies that sync their efforts related with Coral Reef preservation. Funds, grants, events and other related activities’ data are standardised and stored on our platform. People could find the most updated data on our servers. 
+
+## How We Can Make A Difference
+### Coral Reef Restoration
+Coral reefs can be restored through the following ways: 
+ - coral farming, 
+ - creating substrates, 
+ - relocation, 
+ - invasive algae, 
+ - micro-fragmentation and, 
+ -fusion.
+
+### Our Platform: Coral Gardeners
 
 
 >
