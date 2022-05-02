@@ -51,7 +51,6 @@ Coral reefs can be restored through the following ways:
 
 
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 
 
