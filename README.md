@@ -81,9 +81,9 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 ## Technology Used
 - [Oracle APEX](https://apex.oracle.com/en/)
 - [NTF](https://solsea.io/)
-- [Figma -UI Design](https://www.figma.com/)
-- [Microsoft Sawy](https://sway.office.com/)
+- [Canva](https://www.canva.com)
 - [Adobe Photoshop - Canvas](https://www.adobe.com/)
+- [Vllo and Davinci - Videos]
 
 ## Research Document
 [Look at our Reseach Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
