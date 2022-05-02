@@ -2,7 +2,7 @@
 
 ![image](https://drive.google.com/file/d/1RLfgr8q0fbFa03OfpZXQ-2oKMhw5nJJ0/view?usp=sharing)
 
-[alt text][logo]
+![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
