@@ -2,7 +2,8 @@
 ![alt text](https://drive.google.com/uc?export=view&id=1LQbdlFOsZonQBIZSs5NzPEXsfKdM9kOk)  
 # United Nations World Innovation Day Hack 2022  
  
-<img align="left" width="400" height="400" src="https://drive.google.com/uc?export=view&id=1eTXPdc-J3QS6rfEY0cxUFFU_ugJ382o3">
+ 
+<img align="left" width="600" height="600" src="https://drive.google.com/uc?export=view&id=1eTXPdc-J3QS6rfEY0cxUFFU_ugJ382o3">
   
 # Coral Gardeners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -49,9 +50,9 @@ Coral reefs can be restored through the following ways:
 <img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=1bgsCpGHovZ_nX-1vCvIv-XTfOuH5Qp_Q">
 <img align="left" width="200" height="200" src="https://drive.google.com/uc?export=view&id=11iRNTzfTUhCLroc1jm5vBYCSYxvGcJ60">
 
+## Our Amazing Team
 
-
-
+![image](https://drive.google.com/uc?export=view&id=1UmNAywayFWZ3WzFjQA1OmYnsRvmsPpKq) 
 
 
 
