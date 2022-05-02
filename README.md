@@ -61,6 +61,7 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 ### PARTNERSHIPS
 - Sponsor our events
 - Transparent social responsibility 
+-
 ***_Mother Coral’s needs require multi-stakeholder partnership globally. CORAL GARDENERS provides the necessary talent, motivation for social mobilization and measurable social responsibility activities._***
 
 
