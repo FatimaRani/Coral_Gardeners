@@ -13,7 +13,7 @@ Corals are found all over the world's oceans, from the Aleutian Islands off the 
 
 *You can find a list of where these reefs can be found: [`List of reefs`](https://en.wikipedia.org/wiki/List_of_reefs)*    
 
-![image](https://drive.google.com/uc?export=view&id=16aQBNYRzhe1Xg5w7qpn5xjUBqxN0im1X)
+![image] (https://drive.google.com/uc?export=view&id=16aQBNYRzhe1Xg5w7qpn5xjUBqxN0im1X)
 
 ## Problem Statment
 
