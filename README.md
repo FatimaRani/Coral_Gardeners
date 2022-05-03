@@ -88,11 +88,19 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 ## Building the Coral Gardeners.sql file
 **_Steps_**
   -  Login to APEX as the developer with your credentials
-  -  Use SQL Workspace to run sql script provided
-  -  Use Obeject Browswer to see what database objects the screipt has credet. TADA
+
+![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
+
+  -  if you want to install the app (which is an SQL file) you need to do the Import of the Application and pass that file across to import and build the 
+     supporting objects
+  - You should run the script connected to SQL*Plus as the Oracle user APEX_220100 or as the owner (parsing schema) of the application
+  -  or for standard tables use SQL Workspace to run sql script provided
+  -  Use Object Browswer to see what database objects the script has created. TADA
+
 
 
 ![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
+
 ![image](https://drive.google.com/uc?export=view&id=1mXlCXNGoyx-FXU0gSI0e8WC7Cjt6ByrK)
 
 ## Research Document
