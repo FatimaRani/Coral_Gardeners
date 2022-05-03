@@ -97,10 +97,6 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
   -  or for standard tables use SQL Workspace to run sql script provided
   -  Use Object Browswer to see what database objects the script has created. TADA
 
-
-
-![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
-
 ![image](https://drive.google.com/uc?export=view&id=1mXlCXNGoyx-FXU0gSI0e8WC7Cjt6ByrK)
 
 ## Research Document
