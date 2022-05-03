@@ -90,7 +90,7 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
   -  Login to APEX as the developer with your credentials
   -  Use SQL Workspace to run sql script provided
   -  Use Obeject Browswer to see what database objects the screipt has credet. TADA
-![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ)
+![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ-m)
 ![image](https://drive.google.com/uc?export=view&id=1mXlCXNGoyx-FXU0gSI0e8WC7Cjt6ByrK)
 
 ## Research Document
