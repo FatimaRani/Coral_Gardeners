@@ -85,6 +85,14 @@ CORAL GARDENERS will provide a marketplace for NFT creators who have underwater 
 - [Adobe Photoshop - Canvas](https://www.adobe.com/)
 - [Vllo and Davinci - Videos]
 
+## Building the Coral Gardeners.sql file
+**_Steps_**
+  -  Login to APEX as the developer with your credentials
+  -  Use SQL Workspace to run sql script provided
+  -  Use Obeject Browswer to see what database objects the screipt has credet. TADA
+![image](https://drive.google.com/uc?export=view&id=1347A_AQ1kocTwb3W0lMFN7Di03BWWJ)
+![image](https://drive.google.com/uc?export=view&id=1mXlCXNGoyx-FXU0gSI0e8WC7Cjt6ByrK)
+
 ## Research Document
 [Look at our Reseach Document, please!](https://docs.google.com/document/d/10IbE9c50wdzqiuzbYAXASws7El42F2Wu2A7X2pXdGYM/edit)
 
